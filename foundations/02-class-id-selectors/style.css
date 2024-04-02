@@ -1,0 +1,21 @@
+.c1 {
+    background-color: rgb(244, 116, 116);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#d2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#d3 {
+    background-color: rgb(123, 237, 123);
+    font-weight: 700
+}
+
+
+
